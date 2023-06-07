@@ -41,6 +41,9 @@ public class WebScrolling {
 			Sum = Sum + val;
 		}
 		System.out.println(Sum);
+		System.out.println("Changing to check GIT update-1");
+		System.out.println("Changing to check GIT update-2");
+		
 	}
 
 }

@@ -86,9 +86,9 @@ public class eKartAuto {
 			
 		}else {
 			System.out.println("Page Not Loaded");
-			System.out.println("Dummy Msg1");
-			System.out.println("Dummy Msg2");
-			System.out.println("Dummy Msg3");
+			System.out.println("Dummy Msg4");
+			System.out.println("Dummy Msg5");
+			System.out.println("Dummy Msg6");
 		}
 
 	}
